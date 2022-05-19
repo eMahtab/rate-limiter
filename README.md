@@ -43,6 +43,8 @@ public class TokenBucket {
 
 ```
 
+![Token Bucket Example](token-bucket-example.png?raw=true)
+
 
 # References :
 System Design Interview - Rate Limiting  : https://www.youtube.com/watch?v=FU4WlwfS3G0
