@@ -46,7 +46,7 @@ public class TokenBucket {
 ![Token Bucket Example](token-bucket-example.png?raw=true)
 
 ## Fixed window and Sliding window algorithm
-![Fixed Window Sliding Window Algorithm](fixed-window-sliding-window-algorithm.png)
+![Fixed Window Sliding Window Algorithm](fixed-window-sliding-window-algorithm.PNG)
 
 
 # References :
