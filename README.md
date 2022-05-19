@@ -45,6 +45,9 @@ public class TokenBucket {
 
 ![Token Bucket Example](token-bucket-example.png?raw=true)
 
+## Fixed window and Sliding window algorithm
+![Fixed Window Sliding Window Algorithm](fixed-window-sliding-window-algorithm.png)
+
 
 # References :
 System Design Interview - Rate Limiting  : https://www.youtube.com/watch?v=FU4WlwfS3G0
