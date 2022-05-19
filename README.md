@@ -6,6 +6,9 @@
 4. Fixed Window
 
 ## Token Bucket
+
+![Token Bucket Algorithm](token-bucket-algorithm.png?raw=true)
+
 ```java
 public class TokenBucket {
 	private final long bucketCapacity;
