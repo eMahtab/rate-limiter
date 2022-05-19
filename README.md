@@ -55,4 +55,8 @@ public class TokenBucket {
 # References :
 System Design Interview - Rate Limiting  : https://www.youtube.com/watch?v=FU4WlwfS3G0
 
+https://akshay-iyangar.github.io/system-design/grokking-system-design/system-design-problems/api-rate-limiter.html
+
+
+
 
