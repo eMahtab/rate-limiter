@@ -14,6 +14,7 @@ X-RateLimit-Reset: 1697030400
 }
 ```
 
+**Rate Limiter Algorithms :**
 1. Leaky Bucket
 2. Token Bucket
 3. Sliding Window
