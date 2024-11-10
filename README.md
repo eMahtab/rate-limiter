@@ -1,4 +1,18 @@
 # Rate Limiter
+Send HTTP Response code 429 when rate limiter throttle the requests due to too many requests in a time interval.
+```
+HTTP/1.1 429 Too Many Requests
+Content-Type: application/json
+Retry-After: 120
+X-RateLimit-Limit: 100
+X-RateLimit-Remaining: 0
+X-RateLimit-Reset: 1697030400
+
+{
+  "error": "Too Many Requests",
+  "message": "You have exceeded the request limit. Please try again after 120 seconds."
+}
+```
 
 1. Leaky Bucket
 2. Token Bucket
